@@ -1,0 +1,16 @@
+[
+  {
+    "nome": "Produto de exemplo 1",
+    "preco": "99,90",
+    "precoAntigo": "149,90",
+    "loja": "Mercado Livre",
+    "link": "https://www.mercadolivre.com.br"
+  },
+  {
+    "nome": "Produto de exemplo 2",
+    "preco": "59,90",
+    "precoAntigo": "",
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br"
+  }
+]
